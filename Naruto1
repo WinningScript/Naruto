@@ -1,0 +1,2 @@
+local Character = "Naruto"
+game:GetService("ReplicatedStorage").Remotes.Starter:FireServer(Character)
